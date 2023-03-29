@@ -1,0 +1,14 @@
+p {
+    color:brown;
+    text-align:center;
+}
+
+#p_destaque{
+   background-color:black;
+   color:aliceblue;
+   border: 4px;
+}
+
+.direito{
+    text-align: right;
+}
