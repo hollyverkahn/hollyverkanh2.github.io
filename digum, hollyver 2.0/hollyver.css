@@ -1,0 +1,44 @@
+h1{
+  color: rgb(28, 86, 247);
+  border-left-style: groove;
+  border-left-color:purple ;
+  border-left-width: 5px;
+  border-left-color: rgba(212, 195, 195, 0);
+  font-size: 16px;
+}
+
+h1{
+  color: rgb(55, 23, 239);
+  border-left-style: groove;
+  border-left-color: purple;
+  border-left-width: 10px;
+  background-color: gainsboro;
+  font-size: 15px;
+}
+
+h5{
+  color: rgb(15, 4, 75);
+  border-left-style: groove;
+  border-left-color: purple;
+  border-left-width: 10px;
+  background-color: gray;
+  font-size: 15px;
+}
+
+div{
+  color: rgb(20, 20, 150);
+  border-style: groove;
+  border-color: rgb(0, 0, 0);
+  border-width: 10px;
+  background-color: rgb(182, 182, 182);
+}
+
+img{
+  border-style: groove;
+  border-color: black;
+}
+
+ *{
+margin:7px;
+padding:3px;
+}
